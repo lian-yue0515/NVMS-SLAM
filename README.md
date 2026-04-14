@@ -1,7 +1,7 @@
 <div align="center">
   <h1>NVMS-SLAM</h1>
   <h2>a normal vector-based multi-session LiDAR SLAM system tailored for indoor environments</h2>
-<!--   <p><strong>Official implementation of our paper in <i>IEEE Transactions on Intelligent Vehicles (T-IV), 2024</i></strong></p>
+<!--   <p><strong>Official implementation of our paper in <i>IEEE Transactions on Automation Science and Engineering (T-ASE), 2026</i></strong></p>
   <br>
   <a href="https://arxiv.org/pdf/2503.19506v1"><img src="https://img.shields.io/badge/arXiv-2503.19506-b31b1b.svg" alt="arXiv"></a>
   <a href="https://github.com/lian-yue0515/MM-LINS"><img src="https://img.shields.io/badge/GitHub-Code-blue.svg" alt="GitHub"></a>
@@ -64,7 +64,22 @@ Download our test bags here: [geogle](https://drive.google.com/drive/folders/1TY
 ### 5. Example results 
 
 
+### Citation
+If you use NVMS-SLAM for any academic work, please cite our original [paper](https://ieeexplore.ieee.org/document/11479301)
+```
+@ARTICLE{11479301,
+  author={Ma, Yongxin and Zhao, Chengwei and Xu, Jie and Li, Yixuan and Zhang, Xuanxuan and Yuan, Shenghai and Xie, Lihua},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={NVMS-SLAM: Normal Vector-based Multi-Session LiDAR SLAM in Indoor Environments}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Kalman filters;Filters;Central Processing Unit;Indoor environment;Electronic mail;Product development;Graphical user interfaces;Indoor communication;Location awareness;High frequency;Double-sided issue;LiDAR simultaneous location and mapping;multi-session;normal vector},
+  doi={10.1109/TASE.2026.3682733}}
 
+
+```
 ### Acknowledgements 
 
 
